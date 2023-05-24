@@ -4,3 +4,4 @@ Modified file
 Learning git is easy
 New line
 Learning branching in git.
+Do this in the branch.
