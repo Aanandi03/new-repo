@@ -3,4 +3,9 @@ This is the second line.
 Modified file
 Learning git is easy
 New line
+<<<<<<< HEAD
 Again, Learning branching.
+=======
+Learning branching in git.
+Do this in the branch.
+>>>>>>> master
