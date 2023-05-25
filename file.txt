@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding data in master branch
+=======
+3 way merging.
+>>>>>>> new-feature
